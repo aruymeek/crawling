@@ -1,5 +1,5 @@
 ## [Python] basic
----
+
 **1. movieapp**<br>
 dictionary를 활용한 영화 목록 관리 프로그램 만들기<br>
 https://aruymeek.tistory.com/1
