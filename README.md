@@ -13,4 +13,5 @@ Recursive 함수의 재귀<br>
 https://aruymeek.tistory.com/3
 
 **4. modeltest**<br>
-class를 활용한 영화 목록 관리 프로그램 만들기<br>
+class를 활용하여 영화 목록 관리하기<br>
+https://aruymeek.tistory.com/4
